@@ -10,11 +10,11 @@
 
 ## 👩🏽‍💻 About Me
 
-I am a Diploma in Computer Science student passionate about software development, problem-solving, and technology.
+I am a Diploma in Computer Science student passionate about software development, problem-solving and technology.
 
 I enjoy building practical applications and continuously improving my programming and development skills.
 
-I am currently focusing on Java, Spring Boot, SQL, React, and Cloud Computing.
+I am currently focusing on Java, Spring Boot, SQL, React and Cloud Computing.
 
 ---
 
